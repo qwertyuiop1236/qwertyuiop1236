@@ -1,16 +1,49 @@
-## Hi there 👋
+# Abdulatip-Game
+### Привет! Я Абдулатип, Unity-разработчик 👋
 
-<!--
-**qwertyuiop1236/qwertyuiop1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю мобильные игры на Unity с упором на производительность и чистый код.  
+Почти 3 года коммерческого опыта, работал над проектами с аудиторией 500k+.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Чем я занимаюсь
+
+- Пишу игровую логику и архитектуру на **C#** и **Unity**.
+- Оптимизирую производительность на мобильных платформах (Android, iOS).
+- Работаю с **Zenject**, **DOTween**, **Addressables**, **UniTask**.
+- Верстаю адаптивный UI и настраиваю анимации интерфейсов.
+- Разбираю чужой код, провожу рефакторинг и улучшаю стабильность.
+
+---
+
+### 📊 Результаты, которыми горжусь
+
+- Поднял FPS на бюджетных устройствах с 18 до 30 (+66%) через пулинг и батчинг.
+- Сократил время загрузки сцены с 8 до 2,5 секунд с помощью Addressables.
+- Уменьшил размер билда на 43% (со 180 до 158 МБ) и прошёл модерацию RuStore.
+- Снизил количество ANR на 90% (с 1,2% до 0,12% сессий) после рефакторинга сохранений.
+
+---
+
+### 🧩 Стек
+
+`C#` `Unity` `URP` `Zenject` `DOTween` `Addressables` `UniTask` `uGUI`
+`Git` `Firebase` `REST API` `JSON` `Odin Inspector` `Blender (базово)`
+
+---
+
+### 📁 Репозитории с примерами кода
+
+- [TOWER DEFENSE] – реализация пула объектов и оптимизации сцен.
+- [TOWER DEFENSE] – кастомные инспекторы и окна редактора для геймдизайнеров.
+- [TOWER DEFENSE] – пример асинхронной загрузки сцен и управления ассетами.
+
+> *Ссылки на конкретные проекты добавь сам – выбери те, что лучше показывают твой уровень.*
+
+
+---
+
+### ✉️ Связь со мной
+
+- Telegram: @Abdulatip
+- Email: AbdulatipGIt@gmail.com
